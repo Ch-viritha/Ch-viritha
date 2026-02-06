@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there , This is Ch. Viritha👋
+Thanks for visiting my profile. 
 
 # 💫 About Me:
 Computer Science student(Cyber Security) | Aspiring Full-Stack Developer| penetration tester <br>I build practical, problem-driven software with a strong focus on clean code, security, and real-world usability.<br><br>I’ve worked on projects like blogging platforms, authentication systems, AI-based detection tools, and community portals, gaining hands-on experience across frontend, backend, and databases. I enjoy turning ideas into working systems and constantly improving them through iteration and learning.<br><br>Currently preparing for internships and entry-level roles, sharpening my DSA, full-stack skills, and applied AI knowledge.<br><br>📌 Actively learning • Building projects • Open to collaboration
@@ -27,3 +28,4 @@ Computer Science student(Cyber Security) | Aspiring Full-Stack Developer| penetr
 [![](https://visitcount.itsvg.in/api?id=Ch-viritha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##Thanks for visiting my profile. 
